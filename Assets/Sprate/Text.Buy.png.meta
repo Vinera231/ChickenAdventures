@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 650f9078c952a874f892f115510befa9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3545819936247519575
+    second: Text.Buy_0
+  - first:
+      213: -4733475696743258974
+    second: Text.Buy_1
+  - first:
+      213: -7744722002214283258
+    second: Text.Buy_2
+  - first:
+      213: -6296680549089670768
+    second: Text.Buy_3
+  - first:
+      213: -3824771817876239341
+    second: Text.Buy_4
+  - first:
+      213: 6860743199045995386
+    second: Text.Buy_5
+  - first:
+      213: -8478386146239209574
+    second: Text.Buy_6
+  - first:
+      213: -2184500733882148012
+    second: Text.Buy_7
+  - first:
+      213: 7803577320121910007
+    second: Text.Buy_8
+  - first:
+      213: -3354312733731513732
+    second: Text.Buy_9
+  - first:
+      213: 4350235642946696191
+    second: Text.Buy_10
+  - first:
+      213: 540646799305090227
+    second: Text.Buy_11
+  - first:
+      213: -2379209508869339855
+    second: Text.Buy_12
+  - first:
+      213: -9138751017921750349
+    second: Text.Buy_13
+  - first:
+      213: -7815985692037392720
+    second: Text.Buy_14
+  - first:
+      213: 3314221659530126585
+    second: Text.Buy_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Text.Buy_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 500
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75918890278453130800000000000000
+      internalID: 3545819936247519575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text.Buy_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 500
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a46caecee05f4eb0800000000000000
+      internalID: -4733475696743258974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text.Buy_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 498
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6089ddd4f58358490800000000000000
+      internalID: -7744722002214283258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text.Buy_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 498
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099066fd662bd98a0800000000000000
+      internalID: -6296680549089670768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text.Buy_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 498
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ccf80db4eabeac0800000000000000
+      internalID: -3824771817876239341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text.Buy_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 550
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b405af691463f50800000000000000
+      internalID: 6860743199045995386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text.Buy_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 550
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f91dc68b8b65a80800000000000000
+      internalID: -8478386146239209574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text.Buy_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 500
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bdf5118281fa1e0800000000000000
+      internalID: -2184500733882148012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text.Buy_8
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 550
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2492f3a30eb4c60800000000000000
+      internalID: 7803577320121910007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text.Buy_9
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 550
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a1d5037561371d0800000000000000
+      internalID: -3354312733731513732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text.Buy_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 500
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3b41bc4442f5c30800000000000000
+      internalID: 4350235642946696191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text.Buy_11
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 498
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b428854663c08700800000000000000
+      internalID: 540646799305090227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text.Buy_12
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 477
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1358c99ae895bfed0800000000000000
+      internalID: -2379209508869339855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text.Buy_13
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 500
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bad80e4e52ac2180800000000000000
+      internalID: -9138751017921750349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text.Buy_14
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 477
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b653988c6a088390800000000000000
+      internalID: -7815985692037392720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text.Buy_15
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 477
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4e2333a0b7efd20800000000000000
+      internalID: 3314221659530126585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Text.Buy_0: 3545819936247519575
+      Text.Buy_1: -4733475696743258974
+      Text.Buy_10: 4350235642946696191
+      Text.Buy_11: 540646799305090227
+      Text.Buy_12: -2379209508869339855
+      Text.Buy_13: -9138751017921750349
+      Text.Buy_14: -7815985692037392720
+      Text.Buy_15: 3314221659530126585
+      Text.Buy_2: -7744722002214283258
+      Text.Buy_3: -6296680549089670768
+      Text.Buy_4: -3824771817876239341
+      Text.Buy_5: 6860743199045995386
+      Text.Buy_6: -8478386146239209574
+      Text.Buy_7: -2184500733882148012
+      Text.Buy_8: 7803577320121910007
+      Text.Buy_9: -3354312733731513732
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
