@@ -22,6 +22,6 @@ public class PlayerAnimation : MonoBehaviour
             return;
 
         _isRun = false;
-        _animator.Play(s_attackAnimationID, 0, 0);
+        _animator.Play(s_standAnimationID, 0, 0);
     }
 }

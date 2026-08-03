@@ -15,6 +15,7 @@ public class SfXPlayer : MonoBehaviour
     [SerializeField] private AudioClip _pickEggSound;
     [SerializeField] private AudioClip _stopMusicSound;
     [SerializeField] private AudioClip _dontEnoughCoinSound;
+    [SerializeField] private AudioClip _sleepSound;
 
     public static SfXPlayer Instance { get; private set; }
 
@@ -56,6 +57,9 @@ public class SfXPlayer : MonoBehaviour
   
     public void PlayDontEnoughCoin() =>
         PlayOneShot(_dontEnoughCoinSound);
+    
+    public void PlaySleepSound() =>
+        PlayOneShot(_sleepSound);
 
     public void PlayOneShot(AudioClip audio) =>
         _source.PlayOneShot(audio);
