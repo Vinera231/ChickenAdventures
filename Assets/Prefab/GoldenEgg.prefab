@@ -43,8 +43,8 @@ GameObject:
   - component: {fileID: 3208275372669020673}
   - component: {fileID: 6875425714061899624}
   - component: {fileID: 8795357925172677644}
-  - component: {fileID: 149883768103602104}
   - component: {fileID: 7854615710593551655}
+  - component: {fileID: 5726716038500150103}
   m_Layer: 0
   m_Name: Egg_0
   m_TagString: Untagged
@@ -158,20 +158,6 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: -0.00000047683716, y: 0}
   m_Radius: 3.3
---- !u!114 &149883768103602104
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2494596305544282797}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 657fd5d7d0316c84d9681eeebc8a2664, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _amount: 100
-  _nickName: GoldenEgg1
 --- !u!95 &7854615710593551655
 Animator:
   serializedVersion: 7
@@ -194,3 +180,17 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &5726716038500150103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2494596305544282797}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04bf0c10cb225484aa0dbaf6cb0c3bf1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _amount: 100
+  _goldenEggImage: {fileID: 0}
