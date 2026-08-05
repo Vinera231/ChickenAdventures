@@ -11,6 +11,7 @@ public class GoldenEgg : MonoBehaviour
         {
             player.CollectCoin(_amount);
             _goldenEggImage.SetActive(true);
+            gameObject.SetActive(false);
         }
     }
 }

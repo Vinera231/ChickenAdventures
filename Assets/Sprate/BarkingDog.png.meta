@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: ea0a83b923aaca845b7defe9a9c14379
+guid: 52ce60f66011ef748b26ece9315e66fb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6861773240410487927
-    second: Tractor (1)_0
+      213: 6171742416334033217
+    second: BarkingDog_0
+  - first:
+      213: 8562057056588836979
+    second: BarkingDog_1
+  - first:
+      213: 2552392805716338868
+    second: BarkingDog_2
+  - first:
+      213: 2720159380082962817
+    second: BarkingDog_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tractor (1)_0
+      name: BarkingDog_0
       rect:
         serializedVersion: 2
-        x: 55
-        y: 198
-        width: 965
-        height: 722
+        x: 22
+        y: 778
+        width: 71
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +124,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 77cb2fb286ae93f50800000000000000
-      internalID: 6861773240410487927
+      spriteID: 1411dc2470f66a550800000000000000
+      internalID: 6171742416334033217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarkingDog_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 26
+        width: 946
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370ba9c778982d670800000000000000
+      internalID: 8562057056588836979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarkingDog_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 719
+        width: 75
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b82cffcbbbeb6320800000000000000
+      internalID: 2552392805716338868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarkingDog_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 647
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181ba4e4b82ffb520800000000000000
+      internalID: 2720159380082962817
       vertices: []
       indices: 
       edges: []

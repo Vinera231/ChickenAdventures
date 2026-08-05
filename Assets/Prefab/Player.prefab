@@ -62,7 +62,7 @@ GameObject:
   - component: {fileID: 7869245163165771961}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -125,8 +125,8 @@ MonoBehaviour:
   _reader: {fileID: 0}
   _rb: {fileID: 2173464818051717280}
   _animation: {fileID: 2232880694131391017}
-  _speed: 5
-  _jump: 8
+  _speed: 6
+  _jump: 9
   _delayWalk: 0.5
 --- !u!70 &55513593873116401
 CapsuleCollider2D:

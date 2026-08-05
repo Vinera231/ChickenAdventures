@@ -107,10 +107,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _iteam: {fileID: 4764908096442928473}
+  _egginBirdNet: {fileID: 0}
+  _dialog: {fileID: 0}
+  _advicePanel: {fileID: 0}
+  _panelWin: {fileID: 0}
   _reader: {fileID: 0}
   _score: {fileID: 0}
-  _eggUI: {fileID: 0}
-  _eggId: 0
   _price: 150
 --- !u!1 &4764908096442928473
 GameObject:
@@ -122,7 +124,6 @@ GameObject:
   m_Component:
   - component: {fileID: 673809353459700679}
   - component: {fileID: 3997202536245006068}
-  - component: {fileID: 6549496010362956656}
   m_Layer: 0
   m_Name: Egg_0
   m_TagString: Untagged
@@ -200,20 +201,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &6549496010362956656
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4764908096442928473}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a3327656d67a0e84893db6d3b339db08, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _eggImage: {fileID: 6932343806519119119}
-  eggSprites: []
 --- !u!1 &9185231514338800898
 GameObject:
   m_ObjectHideFlags: 0
@@ -452,17 +439,6 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 517801424453999815, guid: 639b8e9cd0bcce94389797c8109a3cf1, type: 3}
   m_PrefabInstance: {fileID: 2864418088796388390}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &6932343806519119119 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 5185003154489143593, guid: 639b8e9cd0bcce94389797c8109a3cf1, type: 3}
-  m_PrefabInstance: {fileID: 2864418088796388390}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &7751650863783342814 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5499757646129827576, guid: 639b8e9cd0bcce94389797c8109a3cf1, type: 3}
