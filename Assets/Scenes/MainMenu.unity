@@ -1744,7 +1744,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Version 1.0.7
+  m_text: 'Version 1.0.8
 
 '
   m_isRightToLeft: 0
@@ -2632,6 +2632,8 @@ MonoBehaviour:
   _pickEggSound: {fileID: 0}
   _stopMusicSound: {fileID: 0}
   _dontEnoughCoinSound: {fileID: 0}
+  _sleepSound: {fileID: 0}
+  _barkSound: {fileID: 0}
 --- !u!82 &1454460752
 AudioSource:
   m_ObjectHideFlags: 0
